@@ -1,0 +1,55 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: rgb(44, 42, 43);
+}
+.navBtn {
+    text-decoration: none;
+    color: rgb(159, 154, 145);
+    font-size: 21px;
+    background: rgba(0,0,0,0);
+}
+.navBtn:hover {
+    cursor: pointer;
+    font-size: 18px;
+    color: rgb(208,255,20);
+}
+.nav {
+    text-align: center;
+    border-top: 2px solid rgb(239, 234, 225);
+    border-bottom: 2px solid rgb(239, 234, 225);
+    height: 26px;
+    background: rgb(88, 75, 79);
+}
+.homeText {
+    color: rgb(239, 234, 225);
+}
+.homeTitle {
+    color: rgb(208,255,20);
+}
+.maindiv {
+    height: 100vh;
+}
+.normalAnchor {
+    text-decoration: none;
+    font-size: 21px;
+    color: rgb(159, 154, 145);
+}
+.normalAnchor:hover {
+    cursor: pointer;
+    color: rgb(100,100,100);
+    font-size: 18px;
+}
+.bigAnchor {
+    text-decoration: none;
+    font-size: 31px;
+    color: rgb(159, 154, 145);
+}
+.bigAnchor:hover {
+    cursor: pointer;
+    color: rgb(208,255,20);
+    font-size: 28px;
+}
+.yohaanPng {
+    border: 3px solid rgb(159, 154, 145);
+}
